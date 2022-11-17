@@ -9,4 +9,4 @@ student, and this probability defines the chance of the answer you copied being 
 
 Quick-Look:
 
-![alt text](Game.jpg?raw=true "Title")
+![alt text](GameLook.jpeg?raw=true "Title")
