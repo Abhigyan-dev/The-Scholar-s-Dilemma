@@ -8,4 +8,5 @@ given by another student will not always be correct. There is a probability asso
 student, and this probability defines the chance of the answer you copied being correct.
 
 Quick-Look:
-![alt text](https://postimg.cc/grZ5gkzx)
+
+![alt text](https://github.com/Abhigyan-dev/The-Scholars-Dilemma/blob/master/Game\Look.jpeg?raw=true)
