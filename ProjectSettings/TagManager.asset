@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Teacher
+  - Students
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - Floor
+  - Students
+  - Table
+  - Obstacles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 2158427835
+    locked: 0
+  - name: Chairs
+    uniqueID: 1184370925
+    locked: 0
+  - name: Tables
+    uniqueID: 628483843
+    locked: 0
+  - name: Students
+    uniqueID: 3182988349
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
