@@ -9,4 +9,4 @@ student, and this probability defines the chance of the answer you copied being 
 
 Quick-Look:
 
-![alt text](https://github.com/Abhigyan-dev/The-Scholars-Dilemma/blob/master/Game\Look.jpeg?raw=true)
+![alt text](Game.jpg?raw=true "Title")
